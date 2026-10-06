@@ -1,0 +1,14 @@
+[
+    {
+        "nama": "Muh. Agustyon",
+        "nim": "2609116049",
+        "matkul": "Dasar-Dasar Pemrograman",
+        "nilai": 100
+    },
+    {
+        "nama": "Muhammad Ihsan",
+        "nim": "2609116009",
+        "matkul": "Matematika Diskrit",
+        "nilai": 90
+    }
+]
